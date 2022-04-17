@@ -7,7 +7,7 @@ function header() {
  logo
       </div>
       <div className='menu'>
-menu
+menu list
       </div>
     </div>
   )
